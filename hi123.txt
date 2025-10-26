@@ -1,0 +1,7 @@
+Hello World! This is a test file with some random content.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+The quick brown fox jumps over the lazy dog.
+Random numbers: 42, 1337, 2048, 8675309
+
+This file was created as a demonstration of file operations and git workflow.
